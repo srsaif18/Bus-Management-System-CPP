@@ -20,36 +20,27 @@ g++ -o main main.cpp
 
 * Run `main.exe` file in `src` folder
 
-### Admin Credentials
-
-Username : `admin`
-Password : `pass`
-
 ## Screenshots
-
-### Welcome Screen
-
-![Screenshot 1](screenshots/1.png "Welcome Screen")
 
 ### Main Menu
 
-![Screenshot 2](screenshots/2.png "Main Menu")
+![Screenshot 1](screenshots/home.png "Main Menu")
 
-### User Menu
+### Add Bus
 
-![Screenshot 3](screenshots/3.png "User Menu")
+![Screenshot 2](screenshots/add-bus.png "Add Bus")
 
-### Book Ticket
+### Add Passengers
 
-![Screenshot 4](screenshots/4.png "Book Ticket")
+![Screenshot 3](screenshots/add-passengers.png "Add Passengers")
 
-### Admin Menu
+### Show Reservation
 
-![Screenshot 5](screenshots/5.png "Admin Menu")
+![Screenshot 4](screenshots/show-reservation.png "Show Reservation")
 
-### Bus List
+### Show Available Buses
 
-![Screenshot 6](screenshots/6.png "Bus List")
+![Screenshot 5](screenshots/show-available-buses.png "Show Available Buses")
 
 ## Connect With Me
 
