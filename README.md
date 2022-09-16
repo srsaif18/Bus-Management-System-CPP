@@ -32,7 +32,7 @@ g++ -o main main.cpp
 
 ### Add Passengers
 
-![Screenshot 3](screenshots/add-passengers.png "Add Passengers")
+![Screenshot 3](screenshots/add-passenger.png "Add Passengers")
 
 ### Show Reservation
 
