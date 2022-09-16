@@ -1,6 +1,6 @@
 # Bus Reservation System Management
 
-Bus Reservation System Management Project based on `Object Oriented Programming` and `File Handling` Concept in C++.
+Bus Reservation System Management Project in C++.
 
 ## Usage
 
@@ -56,10 +56,9 @@ g++ -o main main.cpp
 
 [<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/linkedin-in-brands.svg" />][linkedin]
 
-[pub]: https://pub.dev/packages/get_time_ago
-[github]: https://github.com/nixrajput
-[website]: https://nixlab.co.in
-[facebook]: https://facebook.com/nixrajput07
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
+[github]: https://github.com/BukharealSaif
+[website]: https://bukharealsaif.com/
+[facebook]: https://www.facebook.com/BukharealSaif
+[twitter]: https://twitter.com/BukharealSaif
+[instagram]: https://www.instagram.com/bukharealsaif/
+[linkedin]: https://www.linkedin.com/in/bukharealsaif/
