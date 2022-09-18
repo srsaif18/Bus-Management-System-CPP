@@ -56,9 +56,9 @@ g++ -o main main.cpp
 
 [<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/linkedin-in-brands.svg" />][linkedin]
 
-[github]: https://github.com/BukharealSaif
+[github]: https://github.com/bukharealsaif
 [website]: https://bukharealsaif.com/
-[facebook]: https://www.facebook.com/BukharealSaif
-[twitter]: https://twitter.com/BukharealSaif
+[facebook]: https://www.facebook.com/bukharealsaif
+[twitter]: https://twitter.com/bukharealsaif
 [instagram]: https://www.instagram.com/bukharealsaif/
 [linkedin]: https://www.linkedin.com/in/bukharealsaif/
